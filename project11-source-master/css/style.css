@@ -1,0 +1,100 @@
+/* Сперва общие правила */
+
+* {
+    box-sizing: border-box
+}
+
+/* Потом селекторы по тегам */
+
+html {
+
+}
+
+main {
+    width: 300px;
+    margin: 0px auto;
+}
+
+p {
+
+}
+
+a {
+
+}
+
+/* Колонки */
+
+.row {
+
+}
+.col {
+
+}
+
+
+/* Потом селекторы по классам */
+
+.text-input {
+
+}
+
+.button {
+
+}
+
+/* Потом специальные правила по страничкам */
+
+/* Login*/
+
+.input-login {
+
+
+}
+
+
+/* Страничка жанров и тегов */
+
+.genre-first {
+
+}
+
+.genre-second {
+
+}
+
+.genre-third {
+
+}
+
+.genre-fourth {
+
+}
+
+.tag {
+
+}
+
+/* Страничка популярного */
+
+.cover {
+
+}
+
+/* Страничка подписки  */
+
+.box-green {
+
+}
+
+.box-purple {
+
+}
+
+.text-large {
+
+}
+
+.button-link {
+
+}
