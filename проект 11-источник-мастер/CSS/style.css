@@ -110,11 +110,12 @@ a {
 }
 /*Для кнопки отпавить сделал отельный класс*/
 .but_sub {
-    padding:10px;
+    padding: 10px;
     border-radius: 5px;
     width: 50%;
     background-color: #3333ff;
     color:white;
+    text-decoration: none;
 }
 /*Разделение на блоки страница popular */
 .col{
@@ -126,4 +127,7 @@ a {
     display:flex;
     justify-content: space-around;
     padding: 10px;
+}
+.single {
+    width: 15em
 }
