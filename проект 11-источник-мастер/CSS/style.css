@@ -159,3 +159,18 @@ a {
     width:18px;
     height:18px;
 }
+.box-green {
+    background-color: #e1f5ea;
+    padding:8px;
+}
+.box-purple{
+    background-color: #ebdcf9;
+    padding:8px;
+}
+.button-link{
+    padding:5px;
+    width: 11100px;
+    background-color: #3333ff;
+    color:white;
+    text-decoration: none;
+}
