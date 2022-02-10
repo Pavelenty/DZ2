@@ -98,3 +98,21 @@ a {
 .button-link {
 
 }
+/* Я не доконца понял что там сверху и запутался поэтому решил все делать тут */
+/* это короче стили для кнопок (в первую очередь это стили для страницы login)*/
+.but {
+    padding:10px;
+    border-radius: 5px;
+}
+.main {
+    display:flex;
+    flex-direction:column;
+}
+/*Для кнопки отпавить сделал отельный класс*/
+.but_sub {
+    padding:10px;
+    border-radius: 5px;
+    width: 50%;
+    background-color: #3333ff;
+    color:white;
+}
