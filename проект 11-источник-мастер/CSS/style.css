@@ -122,6 +122,7 @@ a {
     display:flex;
     justify-content: space-around;
     padding: 10px;
+    flex-direction:column;
 }
 .row{
     display:flex;
@@ -130,4 +131,27 @@ a {
 }
 .single {
     width: 15em
+}
+/*Страница genres */
+.genre-first {
+    background-color: #e1f5ea;
+    padding: 5px;
+    margin-bottom:15px;
+}
+.genre-second {
+    margin-bottom:15px;
+    background-color: #cbedff;
+    padding: 5px;
+    width:75%
+}
+.genre-third {
+    margin-bottom:15px;
+    background-color: #fef0e3;
+    padding: 5px;
+    width:50%
+}
+.genre-fourth {
+    background-color: #ebdcf9;
+    padding: 5px;
+    width:25%
 }
